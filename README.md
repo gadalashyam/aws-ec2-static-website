@@ -1,5 +1,9 @@
 # AWS EC2 Static Website Deployment
 
+## Project URL
+
+https://roadmap.sh/projects/ec2-instance
+
 ## Project Overview
 
 This project demonstrates the deployment of a static website on an AWS EC2 Ubuntu instance using Nginx.
